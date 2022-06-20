@@ -1,3 +1,25 @@
 This is a smaple text file.
 
-2nd line change.
+=======================================
+
+Set Up Git:-----------
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+Other commands:-----------
+
+**to clone files on your computer system use-
+git clone (url)
+
+**to upload files on git use-
+git add (file names)
+
+**to finalise the changes use-
+git commit -m "(committed message)"
+
+**to push your committed files on git use-
+git push -u origin master
+
+**(Additional) to add files on git from any particular link/website use-
+git remote add origin master (url)
