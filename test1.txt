@@ -19,7 +19,12 @@ git add (file names)
 git commit -m "(committed message)"
 
 **to push your committed files on git use-
-git push -u origin master
+git push -u origin main
 
 **(Additional) to add files on git from any particular link/website use-
-git remote add origin master (url)
+git remote add origin main(url)
+
+
+=======================================
+Thank you!
+See you there!! 👋 
