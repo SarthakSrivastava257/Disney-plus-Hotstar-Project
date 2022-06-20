@@ -1,1 +1,10 @@
+
 Hello Git 👋 !
+
+make changes in mother's bakery website and add some features like night-mode and some interactive texts.
+
+--awesome portfolio website 
+http://deanattali.com/
+
+--Basic Git command List – the simple guide
+http://www.codebind.com/linux-tutorials/basic-git-commands-list/
