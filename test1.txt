@@ -1,11 +1,12 @@
-This is a smaple text file.
+<<<<<<<<<<<<<<<<    How to use GitHub on Desktop/Laptop ?   >>>>>>>>>>>>>>>
 
 =======================================
 
-Set Up Git:-----------
+Set Up Git on Computer System:-----------
 
 git config --global user.name "Your Name"
 git config --global user.email "youremail@domain.com"
+
 
 Other commands:-----------
 
