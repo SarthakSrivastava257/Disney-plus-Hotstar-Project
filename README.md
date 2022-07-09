@@ -1,3 +1,5 @@
-# hotstar
-Images-and videos
-Star to repo is appreciated.
+# Welcome to this DisneyPlus Hotstar Clone Project
+
+Star 🌟 to repo is appreciated. 🙌
+
+See you there ✌ !!
