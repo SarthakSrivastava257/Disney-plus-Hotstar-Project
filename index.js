@@ -11,6 +11,13 @@ let movies = [
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
       image: "images/slider 1.png"
     },
+    
+    {
+      name: "Doctor Strange in the Multiverse of Madness",
+      des:
+        "A covert investigation changes its course when special officer Amar encounters an unrelenting Vikram and his pursuit to take down a notorious drug cartel.",
+      image: "images/slider 7.png"
+    },
     {
       name: "wanda vision",
       des:
@@ -34,6 +41,12 @@ let movies = [
       des:
         "A covert investigation changes its course when special officer Amar encounters an unrelenting Vikram and his pursuit to take down a notorious drug cartel.",
       image: "images/slider 6.png"
+    },
+    {
+      name: "Doctor Strange in the Multiverse of Madness",
+      des:
+        "A covert investigation changes its course when special officer Amar encounters an unrelenting Vikram and his pursuit to take down a notorious drug cartel.",
+      image: "images/slider -none.png"
     }
   ];
   
